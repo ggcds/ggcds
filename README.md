@@ -1,11 +1,11 @@
-## Olá, meu nome é Guilherme! 🤠
+<h1>Olá, meu nome é Guilherme! 🤠</h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermebcds/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/guilhermebcaldas/) 
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=ggcds&show_icons=true&theme=tokyonight)
 
-## Tecnologias:
+<h2>Tecnologias:</h2>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -15,5 +15,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggcds&layout=compact)](https://github.com/ggcds/github-readme-stats)
 
-## Sobre mim:
-#### Meu nome é Guilherme, sou graduando no curso de Engenharia de Produção e estou aprimorando minhas habilidades como desenvolvedor web. Tenho interesse em áreas como tecnologia, engenharia e informação.
+<h2>Sobre mim:</h2>
+<p>Meu nome é Guilherme, sou graduando no curso de Engenharia de Produção e estou aprimorando minhas habilidades como desenvolvedor web. Tenho interesse em áreas como tecnologia, engenharia e informação.</p>
