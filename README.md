@@ -16,4 +16,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggcds&layout=compact)](https://github.com/ggcds/github-readme-stats)
 
 <h2>Sobre mim:</h2>
-<p>Meu nome é Guilherme, sou graduando no curso de Engenharia de Produção e estou aprimorando minhas habilidades como desenvolvedor web. Tenho interesse em áreas como tecnologia, engenharia e informação.</p>
+<p>Sou graduando no curso de Engenharia de Produção na PUC Minas e estou aprimorando minhas habilidades como desenvolvedor web. Tenho interesse em áreas como tecnologia, informação, qualidade, estoque, logística dentre outras áreas da engenharia. Busco evoluir meu conhecimento acadêmico e profissional.</p>
