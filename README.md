@@ -16,4 +16,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggcds&layout=compact)](https://github.com/ggcds/github-readme-stats)
 
 <h2>Sobre mim:</h2>
-<p>Sou graduando no curso de Engenharia de Produção na PUC Minas e estou aprimorando minhas habilidades como desenvolvedor web.</p>
+<p>Engenheiro de Produção com forte experiência em gestão de projetos e processos, e habilidades avançadas em análise de dados e programação. Proficiente em inglês e português, com conhecimento básico de espanhol. Buscando uma posição desafiadora na que permita contribuir com minhas habilidades analíticas e técnicas para impulsionar a eficiência operacional e inovação</p>
