@@ -26,14 +26,17 @@
     <img alt="keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
     <img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <img alt="sql" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img alt="react" src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
 </div><br/>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggcds&layout=compact)](https://github.com/ggcds/github-readme-stats)
 
 <h2>About me:</h2>
-<p>Production Engineer with solid experience in project and process management, combined with advanced skills in data analysis, programming, and strategic decision-making. Proficient in English and Portuguese, with intermediate knowledge of Spanish. Strong communication, leadership, and teamwork abilities, along with proactivity and excellence in problem-solving. Seeking a challenging position where I can apply my analytical, technical, and interpersonal skills to drive operational efficiency, innovation, and the development of strategic solutions</p>
+<p>🎓 Production Engineer from PUC Minas and MBA in Artificial Intelligence, Data Science and Big Data for Business from Ibmec. I work at the intersection of data, finance, and strategy, with a focus on driving impact through smart analysis, automation, and data-driven decision-making.
+
+💡 I have experience in FP&A, strategic projects, and applying data science in corporate environments. I've contributed to initiatives focused on cost reduction, loss prevention, and performance improvement by connecting statistical modeling, data visualization, and analytical thinking. I’m familiar with tools such as Python, SQL, Power BI, Excel, Figma, and Google Cloud Platform.
+
+🚀 My goal is to boost business results through data-driven solutions, working with predictive models, management dashboards, process improvements, and business intelligence, with a strong interest in digital products and business transformation.</p>
