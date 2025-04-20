@@ -31,8 +31,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggcds&layout=compact)](https://github.com/ggcds/github-readme-stats)
 
 <h2>About me:</h2>
-<p>🎓 Production Engineer from PUC Minas and MBA in Artificial Intelligence, Data Science and Big Data for Business from Ibmec. I work at the intersection of data, finance, and strategy, with a focus on driving impact through smart analysis, automation, and data-driven decision-making.
-
-💡 I have experience in FP&A, strategic projects, and applying data science in corporate environments. I've contributed to initiatives focused on cost reduction, loss prevention, and performance improvement by connecting statistical modeling, data visualization, and analytical thinking. I’m familiar with tools such as Python, SQL, Power BI, Excel, Figma, and Google Cloud Platform.
-
-🚀 My goal is to boost business results through data-driven solutions, working with predictive models, management dashboards, process improvements, and business intelligence, with a strong interest in digital products and business transformation.</p>
+<p>
+Professional with 3 years of experience in Data Science and Business Intelligence, leading strategic projects focused on digital transformation, cost reduction, and performance improvement. Proficient in tools such as Python, SQL, Power BI, Excel, and cloud platforms (AWS and GCP), applying predictive modeling, data visualization, and process automation to support data-driven decision-making. Production Engineer graduated from PUC Minas, with an MBA in Artificial Intelligence, Data Science, and Big Data for Business from Ibmec.
+</p>
