@@ -33,5 +33,5 @@
 
 <h2>About me:</h2>
 <p>
-Professional with 3 years of experience in Data Science and Business Intelligence, leading strategic projects focused on digital transformation, cost reduction, and performance improvement. Proficient in tools such as Python, SQL, Power BI, Excel, and cloud platforms (AWS and GCP), applying predictive modeling, data visualization, and process automation to support data-driven decision-making. Production Engineer graduated from PUC Minas, with an MBA in Artificial Intelligence, Data Science, and Big Data for Business from Ibmec.
+Professional with 3 years of experience in Data Science and Business Intelligence, leading strategic projects focused on digital transformation, cost reduction, and performance improvement. Applies predictive modeling, data visualization, and process automation to support data-driven decision-making. Production Engineer graduated from PUC Minas, with an MBA in Artificial Intelligence, Data Science, and Big Data for Business from Ibmec.
 </p>
