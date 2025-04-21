@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/guilhermebcaldas/) 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge)](https://guilherme-portfolio-one.vercel.app/)
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=ggcds&show_icons=true&theme=tokyonight)
 
