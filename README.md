@@ -31,8 +31,7 @@
     <img alt="aws" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div><br/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggcds&layout=compact)](https://github.com/ggcds/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggcds&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/ggcds/github-readme-stats)
 
 <h2>About me:</h2>
 <p>
