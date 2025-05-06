@@ -27,6 +27,7 @@
     <img alt="seaborn" src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
     <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <img alt="sql" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggcds&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/ggcds/github-readme-stats)
