@@ -34,5 +34,5 @@
 
 <h2>About me:</h2>
 <p>
-Professional with 3 years of experience in Data Science and Business Intelligence, leading strategic projects focused on digital transformation, cost reduction, and performance improvement. Applies predictive modeling, data visualization, and process automation to support data-driven decision-making. Production Engineer graduated from PUC Minas, with an MBA in Artificial Intelligence, Data Science, and Big Data for Business from Ibmec.
+Specialized professional in automation, data engineering, and artificial intelligence, with experience leading projects that enhance data quality, governance, and efficiency. Strong background in developing ETL pipelines and optimizing analytical environments using Python, SQL, Airflow, and Alteryx. Skilled in implementing generative AI agents for automation and unstructured data processing, as well as integrating BI platforms such as Power BI and Tableau. Holds a degree in Production Engineering from PUC Minas and an MBA in AI, Data Science & Big Data from Ibmec.
 </p>
