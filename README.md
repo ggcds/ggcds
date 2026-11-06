@@ -1,38 +1,23 @@
-<h1>Hi, my name is Guilherme! 🙃</h1>
+## Guilherme Caldas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/guilhermebcaldas/) 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge)](https://guilherme-portfolio-one.vercel.app/)
+Senior Analytics Engineer at Localiza&Co, Latin America's leading car rental group. I build the data foundations that finance teams and AI run on: pipelines, data models, quality checks and the retrieval layer behind LLM applications.
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=ggcds&show_icons=true&theme=tokyonight)
+Previously built ETL/ELT pipelines with Airflow, Kafka and CDC at Inter&Co, a Nasdaq-listed digital bank. MBA in AI, Data Science and Big Data (Ibmec).
 
-<h2>Tech Stack</h2>
+### Featured project
 
-<div style="
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 12px;
-    padding: 20px;
-    background-color: #1e1e1e;
-    border-radius: 12px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-">
-    <img alt="jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-    <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-    <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white">
-    <img alt="sql" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img alt="seaborn" src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-    <img alt="numpy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-</div><br/>
+**[B3 Market Data Pipeline with a Text-to-SQL Assistant](https://github.com/ggcds/projeto-wealth-tech)**
+Airflow + dbt + BigQuery medallion pipeline for Brazilian stocks, with a Gemini chat that turns plain-language questions into validated SQL.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggcds&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)](https://github.com/ggcds/github-readme-stats)
+### Stack
 
-<h2>About me:</h2>
-<p>
-Specialized professional in automation, data engineering, and artificial intelligence, with experience leading projects that enhance data quality, governance, and efficiency. Strong background in developing ETL pipelines and optimizing analytical environments using Python, SQL, Airflow, and Alteryx. Skilled in implementing generative AI agents for automation and unstructured data processing, as well as integrating BI platforms such as Power BI and Tableau. Holds a degree in Production Engineering from PUC Minas and an MBA in AI, Data Science & Big Data from Ibmec.
-</p>
+- **Languages:** Python, SQL
+- **Data engineering:** dbt, Apache Airflow, Apache Spark / PySpark, Apache Kafka, CDC, Trino / Starburst
+- **Cloud:** Google Cloud (BigQuery), AWS (S3, SageMaker)
+- **AI:** RAG, LLM applications (Gemini, LangChain), scikit-learn
+- **Infra:** Docker, Terraform, Git, CI/CD
+- **BI:** Power BI, Tableau
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/guilhermebcaldas/) · guigcds@icloud.com
