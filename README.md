@@ -28,7 +28,3 @@ Airflow + dbt + BigQuery medallion pipeline for Brazilian stocks, with a Gemini 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
-
-### Contact
-
-[LinkedIn](https://www.linkedin.com/in/guilhermebcaldas/) · guigcds@icloud.com
