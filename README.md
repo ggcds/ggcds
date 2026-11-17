@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermebcaldas/)
 [![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:guigcds@icloud.com)
 
-Senior Analytics Engineer at Localiza&Co, Latin America's leading car rental group. I build the data foundations that finance teams and AI run on: pipelines, data models, quality checks and the retrieval layer behind LLM applications.
+Analytics Engineer at Localiza&Co, Latin America's leading car rental group. I build the data foundations that finance teams and AI run on: pipelines, data models, quality checks and the retrieval layer behind LLM applications.
 
 Previously built ETL/ELT pipelines with Spark and Airflow at Inter&Co, a Nasdaq-listed digital bank, including CDC ingestion over Kafka provisioned with Terraform and deployed through GitLab CI/CD. MBA in AI, Data Science and Big Data (Ibmec).
 
